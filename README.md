@@ -6,6 +6,10 @@ Protótipo front-end institucional criado a partir do estudo de caso da atividad
 
 Abra `index.html` em um navegador. O site usa HTML, CSS e JavaScript sem etapa de compilação ou dependências de instalação. A tipografia pode usar fontes do Google Fonts quando há conexão; o sistema mantém fontes alternativas locais.
 
+## Site publicado
+
+Acesse o protótipo pelo [GitHub Pages](https://geovanarlx.github.io/Analise-Clinica_SoftawreHouse/).
+
 ## O que foi proposto
 
 - **Página inicial e apresentação institucional:** resumo do atendimento, missão, endereço e horário geral da clínica.
@@ -47,4 +51,3 @@ A interface tem cabeçalho com marca e menu, chamada principal ilustrada, resumo
 ## Próximos passos para uso real
 
 Conectar o formulário a um canal e a um serviço de agendamento aprovados pela clínica, substituir os dados fictícios por informações autorizadas, revisar os textos e publicar em hospedagem adequada.
-
